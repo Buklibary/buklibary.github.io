@@ -1,0 +1,83 @@
+h1{
+    position: fixed;
+    left:30%;
+    color: rgb(7, 68, 109);
+    text-shadow: 1px 1px 3px black;
+}
+
+#main_container{
+    height: 200vh;
+    background: rgb(7, 68, 109);
+}
+
+span{
+    font-size: 2.5em;
+    padding: 10px;
+    color: grey;
+}
+
+.input{
+    padding: 10px;
+    box-shadow: rgb(7, 68, 109);
+    border:;
+    border-radius:  20px;
+}
+
+#play_button{
+    padding: ;
+    box-shadow: ;
+    border-radius: ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: ;
+    margin-top: ;
+}
+
+#game_component{
+    display: flex;
+    flex-wrap: ;
+    background: black;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#input_component{
+    height: ;
+    background: ;
+}
+
+.cascas{
+    width: ;
+    height: ;
+    color: ;
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#replay{
+    float: right;
+    padding: ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: ;
+    font-weight: ;
+    margin-top: ;
+    box-shadow: ;
+    color: ;
+    background: ;
+}
+#settings{
+    position: fixed;
+    display: flex;
+    align-items: center;
+    font-size: ;
+    padding: ;
+    font-weight: ;
+    background: ;
+    color: ;
+    box-shadow: ;
+}
