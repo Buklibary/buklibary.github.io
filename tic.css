@@ -8,6 +8,7 @@ h1{
 #main_container{
     height: 200vh;
     background: rgb(7, 68, 109);
+    Display:none;
 }
 
 span{
